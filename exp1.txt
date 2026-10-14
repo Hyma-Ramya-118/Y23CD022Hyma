@@ -1,1 +1,1 @@
-this is a text file this file is modified locally
+this is a text file this file is modified locally and manually
